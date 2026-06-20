@@ -2,7 +2,7 @@
   <img src="app_icon.png" alt="Max Paire Logo" width="120">
 </p>
 
-<h1 align="center">Max Paire</h1>
+<h1 align="center">Max Pair</h1>
 
 <p align="center">
   <strong>Connect multiple Bluetooth earbuds to one PC — hear audio on all of them!</strong>

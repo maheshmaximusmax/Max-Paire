@@ -55,6 +55,12 @@ That's it. No installation needed. Just download and run.
 
 ### Want to install it properly? (Optional)
 
+
+
+https://github.com/user-attachments/assets/2147eb78-6c7a-4d76-ba2a-485ac7275857
+
+
+
 1. Download `MaxPaire_Installer.zip` from [Releases](https://github.com/maheshmaximusmax/max-paire/releases/latest)
 2. Extract and run `INSTALL.bat`
 3. Now you have:

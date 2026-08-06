@@ -59,6 +59,8 @@ That's it. No installation needed. Just download and run.
 
 [![Watch the installation video](https://img.youtube.com/vi/OhkHM6gbjKA/maxresdefault.jpg)](https://youtu.be/OhkHM6gbjKA)
 
+https://youtu.be/OhkHM6gbjKA
+
 1. Download `MaxPaire_Installer.zip` from [Releases](https://github.com/maheshmaximusmax/max-paire/releases/latest)
 2. Extract and run `INSTALL.bat`
 3. Now you have:

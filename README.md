@@ -35,10 +35,10 @@ But Windows only lets you play audio on **ONE device at a time!**
 
 **Max Paire** mirrors your PC audio to **2, 3, 4, or more** Bluetooth earbuds/speakers at the same time. Zero lag. Clean audio. One click.
 
-> 🎧 Watch a movie with your friend — both wearing your own earbuds  
-> 🎵 Play music on two Bluetooth speakers at a party  
-> 🎮 Game together with shared audio on separate earbuds  
-> 📺 Share YouTube/Netflix audio without splitting earbuds  
+> 🎧 Watch a movie with your friend — both wearing your own earbuds
+> 🎵 Play music on two Bluetooth speakers at a party
+> 🎮 Game together with shared audio on separate earbuds
+> 📺 Share YouTube/Netflix audio without splitting earbuds
 
 ---
 
@@ -55,11 +55,9 @@ That's it. No installation needed. Just download and run.
 
 ### Want to install it properly? (Optional)
 
+📺 **[Watch the install walkthrough on YouTube](https://youtu.be/OhkHM6gbjKA)**
 
-
-https://github.com/user-attachments/assets/2147eb78-6c7a-4d76-ba2a-485ac7275857
-
-
+[![Watch the installation video](https://img.youtube.com/vi/OhkHM6gbjKA/maxresdefault.jpg)](https://youtu.be/OhkHM6gbjKA)
 
 1. Download `MaxPaire_Installer.zip` from [Releases](https://github.com/maheshmaximusmax/max-paire/releases/latest)
 2. Extract and run `INSTALL.bat`
@@ -265,8 +263,8 @@ If Max Paire helped you, please give it a ⭐ star on GitHub! It helps others fi
 </p>
 
 <!-- SEO Keywords (for GitHub search) -->
-<!-- 
-connect two earbuds to one pc, connect 2 bluetooth earbuds to laptop, 
+<!--
+connect two earbuds to one pc, connect 2 bluetooth earbuds to laptop,
 dual earbuds windows, multiple bluetooth headphones one computer,
 share audio two earbuds pc, bluetooth audio splitter windows software,
 mirror audio multiple devices, play sound two bluetooth speakers,
